@@ -8,8 +8,8 @@ const Features = () => {
       <section id="features" className="py-16 md:py-20 lg:py-28">
         <div className="container">
           <SectionTitle
-            title="Somos especialistas en Mantenimiento a equipos de cocina, refrigeración, panadería y lavanderíaIndustrial."
-            paragraph="Nuestro compromiso es lograr siempre la satisfacción de nuestros clientes, por lo cual es importante para nosotros quecada trabajo que se realice este basado sobre nuestros valores corporativos que son honestidad, pasión, comunicación ylealtad; para ello contamos con un grupo de colaboradores con alto conocimiento y sentido de pertenencia."
+            title="Especialistas en mantenimiento a equipos de cocina, refrigeración, panadería y lavandería industrial"
+            paragraph="Somos una compañía joven y comprometida con el desarrollo del país; constituida por un grupo de profesionales; con la finalidad de ofrecer soluciones integrales en cuanto a asesorías, venta de equipos, intalaciones y mantenimiento, a lo relacionado con equiposde cocina, refrigeración, panadería y lavandería industrial."
             center
           />
 

@@ -10,7 +10,7 @@ const checkIcon = (
 const AboutSectionOne = () => {
   const List = ({ text }) => (
     <p className="mb-5 flex items-center text-lg font-medium text-body-color">
-      <span className="mr-4 flex h-[30px] w-[30px] items-center justify-center rounded-md bg-primary bg-opacity-10 text-primary">
+      <span className="mr-4 flex h-[30px] w-[30px] items-center justify-center rounded-md bg-red-400 bg-opacity-10 text-red-400">
         {checkIcon}
       </span>
       {text}
@@ -24,8 +24,8 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="Equipos a los que realizamos Mantenimiento tanto preventivo como correctivo."
+                paragraph="Mantener los diferentes equipos del cliente disponibles, garantizando un correcto funcionamiento, conel fi n de ayudar a su efi ciencia y productividad en todos sus procesos."
                 mb="44px"
               />
 
@@ -35,15 +35,63 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                      Cocción Horizontal
+                    </h3>
+                    <List text="Cocinas integrales" />
+                    <List text="Hornos industriales" />
+                    <List text="Freidoras industriales" />
+                    <List text="Planchas industriales" />
+                    <List text="Baño maría" />
+                    <List text="Sartenes basculantes" />
+                    <List text="Barbacoas" />
+                    <List text="Fry-Tops" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                      Cocción vertical
+                    </h3>
+                    <List text="Hornos a gas" />
+                    <List text="Hornos eléctricos" />
+                    <List text="Mantenedores de alimentos" />
+                  </div>
+
+                  <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
+                    <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                      Frío comercial
+                    </h3>
+                    <List text="Armario sencillo" />
+                    <List text="Armario doble" />
+                    <List text="Mesas refrigeradas" />
+                    <List text="Ensaladera" />
+                    <List text="Abatidores" />
+                    <List text="Fabricadores de hielo" />
+                    <List text="Enfriador" />
+                    <List text="Enfriadores de botella" />
+                    <List text="Cuartos fríos" />
+                    <List text="Aire acondicionado" />
+                  </div>
+
+                  <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
+                    <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                      Lavandería
+                    </h3>
+                    <List text="Lavadoras" />
+                    <List text="Secadoras" />
+                    <List text="Rodillos" />
+                    <List text="Calandra" />
+                    <List text="Plegadora" />
+                  </div>
+
+                  <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
+                    <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                      Panadería
+                    </h3>
+                    <List text="Batidora" />
+                    <List text="Hornos" />
+                    <List text="Amasadoras" />
+                    <List text="Mesas pasteleras" />
                   </div>
                 </div>
               </div>

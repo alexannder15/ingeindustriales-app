@@ -28,29 +28,43 @@ const AboutSectionTwo = () => {
             <div className="max-w-[470px]">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Bug free code
+                  Asesorías
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Nuestro compromiso es recomendar, sugerir y aconsejar a
+                  nuestros clientes la mejor toma dedecisiones antes, durante y
+                  después de iniciar un proyecto.
                 </p>
               </div>
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Premier support
+                  Venta de equipos
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt.
+                  Contamos con aliados fuertes en el mercado de sector
+                  industrial referente a la hostelería,refrigeración, panadería
+                  y lavandería. (Manejamos marcas tales como: angelopo, Fagor,
+                  vulcan,lassele, girbau, tornado, electrolux, rational, asber,
+                  true, Hobart andina entre otras).
+                </p>
+              </div>
+              <div className="mb-9">
+                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                  Instalaciones
+                </h3>
+                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                  Realizamos instalaciones referentes a hostelería,
+                  refrigeración, panadería y lavandería.
                 </p>
               </div>
               <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Next.js
+                  Mantenimiento
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
-                  consectetur adipiscing elit setim.
+                  Mantener los diferentes equipos del cliente disponibles,
+                  garantizando un correcto funcionamiento, conel fi n de ayudar
+                  a su efi ciencia y productividad en todos sus procesos.
                 </p>
               </div>
             </div>
