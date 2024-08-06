@@ -13,8 +13,7 @@ const featuresData: Feature[] = [
       </svg>
     ),
     title: "Garantizamos el buen servicio",
-    paragraph:
-      "Estamos capacitados para realizar un servicio con calidad.",
+    paragraph: "Estamos capacitados para realizar un servicio con calidad.",
   },
   {
     id: 1,
@@ -29,7 +28,7 @@ const featuresData: Feature[] = [
     ),
     title: "Honestidad y Responsabilidad",
     paragraph:
-      "Es muy importante que la honestidad y Responsabilidad este en cada trabajo que se realice ya que esto habla de nosotros como compañía.",
+      "Es muy importante que la honestidad y responsabilidad esté en cada trabajo que se realice ya que esto habla de nosotros como compañía.",
   },
   {
     id: 1,
@@ -44,7 +43,7 @@ const featuresData: Feature[] = [
     ),
     title: "Contamos con experiencia y personal capacitado",
     paragraph:
-      "Para lograr todo esto, Ingeindustriales cuenta con el conocimiento y experiencia necesaria en la solución de problemas en toda la parte de la industria,hostelera, de refrigeración panadería y lavandería industrial.",
+      "Para lograr todo esto, Ingeindustriales cuenta con el conocimiento y experiencia necesaria en la solución de problemas en toda la parte de la industria hostelera, de refrigeración, panadería y lavandería industrial.",
   },
   // {
   //   id: 1,

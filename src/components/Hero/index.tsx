@@ -16,10 +16,10 @@ const Hero = () => {
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
                   Nuestro compromiso es lograr siempre la satisfacción de
-                  nuestros clientes, por lo cual es importante para nosotros
-                  quecada trabajo que se realice este basado sobre nuestros
-                  valores corporativos que son honestidad, pasión, comunicación
-                  ylealtad; para ello contamos con un grupo de colaboradores con
+                  nuestros clientes, por lo cual es importante para nosotros que
+                  cada trabajo que se realice esté basado sobre nuestros valores
+                  corporativos que son honestidad, pasión, comunicación y
+                  lealtad; para ello contamos con un grupo de colaboradores con
                   alto conocimiento y sentido de pertenencia.
                 </p>
               </div>

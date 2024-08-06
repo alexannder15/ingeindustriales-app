@@ -25,7 +25,7 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="Equipos a los que realizamos Mantenimiento tanto preventivo como correctivo."
-                paragraph="Mantener los diferentes equipos del cliente disponibles, garantizando un correcto funcionamiento, conel fi n de ayudar a su efi ciencia y productividad en todos sus procesos."
+                paragraph="Mantener los diferentes equipos del cliente disponibles, garantizando un correcto funcionamiento, con el fin de ayudar a su eficiencia y productividad en todos sus procesos."
                 mb="44px"
               />
 
@@ -50,7 +50,7 @@ const AboutSectionOne = () => {
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
                     <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                      Cocción vertical
+                      Cocción Vertical
                     </h3>
                     <List text="Hornos a gas" />
                     <List text="Hornos eléctricos" />
@@ -59,7 +59,7 @@ const AboutSectionOne = () => {
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
                     <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                      Frío comercial
+                      Frío Comercial
                     </h3>
                     <List text="Armario sencillo" />
                     <List text="Armario doble" />

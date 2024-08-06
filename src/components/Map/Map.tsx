@@ -14,7 +14,7 @@ function Map() {
 
     loader.load().then(() => {
       if (mapRef.current) {
-        const initialPosition = { lat: 4.574319820677723, lng: -74.243766016885 };
+        const initialPosition = { lat: 4.578048987977634, lng: -74.19801454232808 };
 
         const mapInstance = new google.maps.Map(mapRef.current, {
           center: initialPosition,

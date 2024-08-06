@@ -63,8 +63,8 @@ const AboutSectionTwo = () => {
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   Mantener los diferentes equipos del cliente disponibles,
-                  garantizando un correcto funcionamiento, conel fi n de ayudar
-                  a su efi ciencia y productividad en todos sus procesos.
+                  garantizando un correcto funcionamiento, con el fin de ayudar
+                  a su eficiencia y productividad en todos sus procesos.
                 </p>
               </div>
             </div>

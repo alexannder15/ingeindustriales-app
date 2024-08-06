@@ -75,7 +75,7 @@ const Contact = () => {
                         htmlFor="name"
                         className="mb-3 block text-sm font-medium text-dark dark:text-white"
                       >
-                        Cl. 32 Sur #10-98, Soacha, Cundinamarca
+                        Cl. 32 #11-07, Soacha, Cundinamarca
                       </label>
                       <Map />
                     </div>
